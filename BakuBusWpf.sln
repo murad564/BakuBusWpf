@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakuBusWpf", "BakuBusWpf\BakuBusWpf.csproj", "{7A75F4DA-256D-4A7A-9D74-53B1E2280CB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F08A771D-B0CA-4BCE-AE30-008B00B5BAE3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A75F4DA-256D-4A7A-9D74-53B1E2280CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A75F4DA-256D-4A7A-9D74-53B1E2280CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A75F4DA-256D-4A7A-9D74-53B1E2280CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A75F4DA-256D-4A7A-9D74-53B1E2280CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8DE53E-A87C-483D-A969-A773EDDE4CFB}
+	EndGlobalSection
+EndGlobal
